@@ -1,0 +1,2 @@
+PATCH http://localhost:7000/user/all
+content-type: application/json
